@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Shreeji",
+      "email": "shreejipsoni21@gnu.ac.in",
+      "mobile": 8200488630,
+      "city": "Ahmedabad"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
